@@ -72,11 +72,11 @@ Check out my [GitHub repositories](https://github.com/ragultv?tab=repositories) 
 
 ---
 
-## 📬 Let’s Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ragul-t-)  
-- 📧 Email: [tragulragul@gmail.com](mailto:tragulragul@gmail.com)  
-- 🖥️ [GitHub](https://github.com/ragultv)  
-
+## 📬 Connect with Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/ragul-t-"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/ragultv"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+</p>
 ---
 
 ## 📈 GitHub Stats  
@@ -85,6 +85,12 @@ Check out my [GitHub repositories](https://github.com/ragultv?tab=repositories) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragultv&layout=compact&theme=radical)  
 
+---
+## ❤ Views and Followers
+<a href="https://github.com/ragultv">
+    <img src="https://komarev.com/ghpvc/?username=ragultv">
+</a>
+<a href="https://github.com/ragultv?tab=followers"><img src="https://img.shields.io/github/followers/ragultv?label=Followers&style=social" alt="GitHub Badge"></a>
 ---
 
 Feel free to explore my projects, collaborate, or just say hi! 😊  
