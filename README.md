@@ -55,14 +55,7 @@ Check out my [GitHub repositories](https://github.com/ragultv?tab=repositories) 
 - 🏆 **Machine Learning Internship at Cognifyz Technologies**  
   - Built ML models for restaurant ratings prediction, location analysis, and recommendations.  
 - 🏆 **Machine Learning Internship at The Reciprocal Solution**  
-  - Deployed ML models using Flask, integrated APIs with Postman, and gained hands-on experience in Docker-based deployment.  
-
----
-
-## 📚 Certifications  
-- **DBMS** - Infosys Springboard  
-- **SQL** - Infosys Springboard  
-- **Generative AI Introduction** – Skillible (Accredited by AICTE)  
+  - Deployed ML models using Flask, integrated APIs with Postman, and gained hands-on experience in Docker-based deployme
 
 ---
 
