@@ -44,12 +44,6 @@ Check out my [GitHub repositories](https://github.com/ragultv?tab=repositories) 
 
 ---
 
-## 🌍 Areas of Interest  
-- **Machine Learning & Deep Learning:** Exploring AI to build smarter systems.  
-- **Computer Vision:** Creating solutions for image and video understanding.  
-- **Web Development:** Designing dynamic and user-friendly web applications.  
-
----
 
 ## 🌟 Career Highlights  
 - 🏆 **Machine Learning Internship at Cognifyz Technologies**  
