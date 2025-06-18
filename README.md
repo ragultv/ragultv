@@ -20,7 +20,7 @@
   <a href="https://github.com/ragultv">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
   </a>
-  <a href="https://quickprep-4svh.onrender.com">
+  <a href="https://quickprepai.netlify.app">
     <img src="https://img.shields.io/badge/🚀_QuickPrep-LIVE-8A2BE2?style=for-the-badge&labelColor=101010" />
   </a>
 </div>
