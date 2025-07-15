@@ -39,7 +39,6 @@
 
 ## 🛠️ **TECHNOLOGY MASTERY**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=500&lines=💻+Core+Development+Stack;🧠+AI%2FML+Frameworks;📊+Data+Analytics+Tools;🔧+DevOps+%26+Databases" alt="Tech Stack" />
 
 ### 💻 **CORE DEVELOPMENT**
 <img src="https://img.shields.io/badge/Core-Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
